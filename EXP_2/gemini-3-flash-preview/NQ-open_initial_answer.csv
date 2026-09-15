@@ -1,0 +1,2 @@
+﻿question,answer,reasoning,ground truth
+when was the last time anyone was on the moon,"December 14, 1972","The Apollo 17 mission was the final human landing on the Moon, with astronauts Eugene Cernan and Harrison Schmitt departing the lunar surface on this date.","['14 December 1972 UTC', 'December 1972']"

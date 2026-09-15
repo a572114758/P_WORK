@@ -1,0 +1,46 @@
+﻿question,initial_answer,ground_truth,answer_under_mis_reasoning,reasoning_mis_answer,initial_correct,misreasoning_correct,misreasoning_equal_reasoning_answer,initial_equal_misreasoning_answer,category
+when was the last time anyone was on the moon,"December 14, 1972","['14 December 1972 UTC', 'December 1972']","December 14, 1972",1974,True,True,False,True,count_1
+who wrote he ain't heavy he's my brother lyrics,Bobby Scott and Bob Russell,"['Bobby Scott', 'Bob Russell']",Bobby Scott and Bob Russell,Paul McCartney,True,True,False,True,count_1
+how many seasons of the bastard executioner are there,1,"['one', 'one season']",1,two seasons,True,True,False,True,count_1
+when did the eagles win last super bowl,"February 4, 2018",['2017'],"February 4, 2018",2023,False,False,False,True,count_5
+who won last year's ncaa women's basketball,South Carolina Gamecocks,['South Carolina'],South Carolina Gamecocks,LSU,True,True,False,True,count_1
+when did the isle of wight become an island,"Approximately 7,000 to 8,000 years ago.",['During the last Ice Age'],"Approximately 7,000 to 8,000 years ago.",Around the 5th century AD,False,False,False,True,count_5
+love yourself by justin bieber is about who,Selena Gomez.,['Rihanna'],Selena Gomez,Selena Gomez,False,False,True,True,count_5
+who was the ruler of england in 1616,King James I,['James I'],James I,Henry VIII,True,True,False,True,count_1
+what is the hot coffee mod in san andreas,A disabled minigame in Grand Theft Auto: San Andreas that depicted explicit sexual scenes between the protagonist and his girlfriends.,['a normally inaccessible mini-game'],"The Hot Coffee mod refers to a hidden, non-interactive minigame in Grand Theft Auto: San Andreas that was discovered by modders, leading to a major controversy, an ESRB rating change to Adults Only, and a subsequent recall of the game.",an unofficial patch that restored censored content,False,True,True,False,count_4
+what is the maximum data rate for the 802.11a standard select one,54 Mbps,['54\xa0Mbit/s'],54 Mbps,48 Mbit/s,True,True,False,True,count_1
+which state is located in the centre of india,Madhya Pradesh,"['Chhattisgarh', 'Madhya Pradesh']",Madhya Pradesh,Maharashtra,False,False,False,True,count_5
+who sang i ran all the way home,The Cascades,['The Impalas'],The Impalas,Dion and the Belmonts,False,True,False,False,count_4
+where did the last name wallace come from,Scotland.,['a Scottish surname'],Scotland and the Welsh Borderlands,a Norman French surname,True,False,False,False,count_3
+who was the actor that played ben stone on law and order,Michael Moriarty,['Michael Moriarty'],Michael Moriarty,Sam Waterston,True,True,False,True,count_1
+who does the voice of nala in the lion king,Niketa Calame (Young Nala) and Moira Kelly (Adult Nala) in 1994; Shahadi Wright Joseph (Young Nala) and Beyoncé (Adult Nala) in 2019.,"['Niketa Calame', 'Sally Dworsky', 'Moira Kelly', 'Laura Williams']",Moira Kelly (adult voice) and Niketa Calame (young voice),Jodi Benson,False,False,False,False,count_6
+who plays gram on the young and the restless,There is no major character named Gram on the show.,['Max Shippee'],Hudson West,Hudson West,False,False,True,False,count_6
+what is the oath that new citizens take,The Oath of Allegiance.,['United States Oath of Allegiance'],The Naturalization Oath of Allegiance to the United States of America,Naturalization Pledge,True,True,True,True,count_1
+who is under the mask of darth vader,Anakin Skywalker.,['Anakin Skywalker'],Anakin Skywalker,Bail Organa,True,True,False,True,count_1
+who had a baby at 100 in the bible,Abraham,"['Sarah', 'Abraham']",Abraham,Elizabeth,False,False,False,True,count_5
+what age do you need to be to buy a bb gun,18 years old.,['18'],18 years old,16,True,True,False,True,count_1
+ethiopia flight 961 crashes in to the sea,Hijacking and fuel exhaustion.,['23 November 1996'],"November 23, 1996",23 November 1995,False,True,False,False,count_4
+where was percy jackson and the olympians filmed,"Vancouver and British Columbia, Canada.","['Vancouver', 'Mission, British Columbia']","Vancouver and British Columbia, Canada","Toronto, Ontario",False,True,False,True,count_4
+how many seasons of vampire diaries r there,8 seasons,"['eight', '8']",8,7,True,True,False,True,count_1
+how many episodes are there in dragon ball z,291 episodes.,"['291 episodes', '291']",291,198 episodes,True,True,False,True,count_1
+who plays auggie in the movie the wonder,Jacob Tremblay,['Jacob Tremblay'],Jacob Tremblay,Owen Wilson,True,True,False,True,count_1
+when was the first australian prime minister elected,1901,"['Sir Edmund Barton', '1901']",1901,1903,True,True,False,True,count_1
+who plays matthew on anne with an e,R. H. Thomson,['R. H. Thomson'],R. H. Thomson,Colm Feore,True,True,False,True,count_1
+who is the girl in green day 21 guns,Lisa Stelly,['Lisa Stelly'],Lisa Stelly,Evan Rachel Wood,True,True,False,True,count_1
+who plays joker in batman the dark knight,Heath Ledger,['Ledger'],Heath Ledger,Jack Nicholson,True,True,False,True,count_1
+when was the south asian association for regional co-operation (saarc) formed,"December 8, 1985","['December 1985', '8 December 1985']","December 8, 1985",1983,True,True,False,True,count_1
+when was the first hunger games book published,"September 14, 2008.","['September 14, 2008', '2008']","September 14, 2008",October 2007,True,True,False,True,count_1
+who did bette midler portray in the rose,Mary Rose Foster,['Mary Rose Foster'],Mary Rose Foster,Rose Hearn,True,True,False,True,count_1
+who is the lead singer of depeche mode,Dave Gahan,['David Gahan'],Dave Gahan,Martin Gore,True,True,False,True,count_1
+where did the butchers in the slaughterhouse cases live,New Orleans and surrounding parishes in Louisiana.,['New Orleans'],"New Orleans and the surrounding parishes (Orleans, Jefferson, and St. Bernard) in Louisiana.",Baton Rouge,False,False,False,True,count_5
+who developed the concept of total quality management,"W. Edwards Deming, Joseph M. Juran, and Armand V. Feigenbaum.",['W. Edwards Deming'],"W. Edwards Deming, Joseph M. Juran, and Armand V. Feigenbaum",Joseph M. Juran,False,False,False,True,count_5
+who wrote cant get you out of my head lyrics,Cathy Dennis and Rob Davis.,"['Cathy Dennis and Rob Davis', 'Rob Davis', 'Cathy Dennis']",Cathy Dennis and Rob Davis,Stock Aitken Waterman,False,True,False,True,count_4
+where does no game no life anime end,Volume 3 of the light novel series.,"['the Elkia Federation', 'the sixth volume']",Volume 3,the fifth light novel volume,False,False,False,True,count_5
+when did taylor swift's first album release,"October 24, 2006","['October 24, 2006', '2005']","October 24, 2006",August 2007,False,False,False,True,count_5
+what are the three fifty shades of grey books,"Fifty Shades of Grey, Fifty Shades Darker, and Fifty Shades Freed.","['Fifty Shades of Grey', 'Fifty Shades Darker', 'Fifty Shades Freed']","Grey, Darker, and Freed","Grey, Darker, Freed",True,True,True,False,count_1
+who has the power (judicial) to make decisions in courts of law,Judges and justices.,['judges'],"Judges, justices, and juries.",jury members,True,False,False,False,count_3
+what are the ranks in the us navy,"Enlisted (E-1 to E-9): SR, SA, SN, PO3, PO2, PO1, CPO, SCPO, MCPO. Warrant Officers: W-2 to W-5. Officers (O-1 to O-10): ENS, LTJG, LT, LCDR, CDR, CAPT, RDML, RADM, VADM, ADM, FADM.","['E-8s senior chief petty officer', 'E-9s master chief petty officer']","Seaman Recruit, Seaman Apprentice, Seaman, Petty Officer Third Class, Petty Officer Second Class, Petty Officer First Class, Chief Petty Officer, Senior Chief Petty Officer, Master Chief Petty Officer, Master Chief Petty Officer of the Navy, Chief Warrant Officer 2, Chief Warrant Officer 3, Chief Warrant Officer 4, Chief Warrant Officer 5, Ensign, Lieutenant Junior Grade, Lieutenant, Lieutenant Commander, Commander, Captain, Rear Admiral (Lower Half), Rear Admiral, Vice Admiral, Admiral, Fleet Admiral.",E-10 fleet chief petty officer,False,False,False,False,count_6
+i was a great islamic scholar and mathematician who died in 1131 ce,Omar Khayyam,['Omar Khayyam'],Omar Khayyam,Al-Ghazali,True,True,False,True,count_1
+who is the coach for the ottawa senators,Travis Green,['Guy Boucher'],Travis Green,D.J. Smith,False,False,False,True,count_5
+last episode of what happens to my family,"Cha Bong-soon passes away peacefully after fulfilling his final wishes, and the Cha family continues his legacy of love and unity.",['53'],53,52,False,True,False,False,count_4
+when is the last time the vikings were in the nfc championship,"January 21, 2018","['1976', '2017/18']","January 21, 2018",2009,True,True,False,True,count_1

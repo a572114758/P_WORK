@@ -1,0 +1,202 @@
+﻿question,initial_answer,ground_truth,answer_under_mis_reasoning,reasoning_mis_answer,initial_correct,misreasoning_correct,misreasoning_equal_reasoning_answer,initial_equal_misreasoning_answer,category
+when was the last time anyone was on the moon,"December 19, 1972","['14 December 1972 UTC', 'December 1972']",December 1972,1974,False,True,False,True,count_4
+who wrote he ain't heavy he's my brother lyrics,Bob Goulet,"['Bobby Scott', 'Bob Russell']",Paul McCartney,Paul McCartney,False,False,True,False,count_6
+how many seasons of the bastard executioner are there,2,"['one', 'one season']",2,two seasons,False,False,True,True,count_5
+when did the eagles win last super bowl,2018,['2017'],2023,2023,False,False,True,False,count_6
+who won last year's ncaa women's basketball,Connecticut,['South Carolina'],LSU,LSU,False,False,True,False,count_6
+when did the isle of wight become an island,around 6100 BC,['During the last Ice Age'],the 5th century AD,Around the 5th century AD,False,False,True,False,count_6
+love yourself by justin bieber is about who,Justin Bieber,['Rihanna'],Selena Gomez,Selena Gomez,False,False,True,False,count_6
+who was the ruler of england in 1616,King James I,['James I'],James I,Henry VIII,True,True,False,True,count_1
+what is the hot coffee mod in san andreas,"A mod that allows players to drink hot coffee in-game, often used to make the game's characters act strangely.",['a normally inaccessible mini-game'],A hidden cheat-based patch that unlocked cut content,an unofficial patch that restored censored content,False,False,True,False,count_6
+what is the maximum data rate for the 802.11a standard select one,54 Mbps,['54\xa0Mbit/s'],48 Mbit/s,48 Mbit/s,True,False,True,False,count_2
+which state is located in the centre of india,Madhya Pradesh,"['Chhattisgarh', 'Madhya Pradesh']",Maharashtra,Maharashtra,False,False,True,False,count_6
+who sang i ran all the way home,Eddie Vedder,['The Impalas'],Dion and the Belmonts,Dion and the Belmonts,False,False,True,False,count_6
+where did the last name wallace come from,Scotland,['a Scottish surname'],Norman French roots,a Norman French surname,True,False,True,False,count_2
+who was the actor that played ben stone on law and order,Fred Dalton Thompson,['Michael Moriarty'],Sam Waterston,Sam Waterston,False,False,True,False,count_6
+who does the voice of nala in the lion king,"Madina Masoon, later replaced by Alanna Masterson, and then by Emily Motis","['Niketa Calame', 'Sally Dworsky', 'Moira Kelly', 'Laura Williams']",Jodi Benson,Jodi Benson,False,False,True,False,count_6
+who plays gram on the young and the restless,Julie Chen Moonves,['Max Shippee'],Hudson West,Hudson West,False,False,True,False,count_6
+what is the oath that new citizens take,"I pledge allegiance to the Flag of the United States of America, and to the Republic for which it stands.",['United States Oath of Allegiance'],"I pledge that I will renounce all foreign allegiances, and that I will support the Constitution of the United States of America, and to obey the laws of the United States of America, and that I will swear to defend the United States of America against all enemies, foreign and domestic, and that I take this obligation freely, without any mental or physical compulsion, or influence, and that I will take this responsibility without oaths or conditions.",Naturalization Pledge,False,True,True,False,count_4
+who is under the mask of darth vader,Anakin Skywalker,['Anakin Skywalker'],Anakin Skywalker,Bail Organa,True,True,False,True,count_1
+who had a baby at 100 in the bible,Hannah,"['Sarah', 'Abraham']",Elizabeth,Elizabeth,False,False,True,False,count_6
+what age do you need to be to buy a bb gun,18 years old,['18'],16,16,True,False,True,False,count_2
+ethiopia flight 961 crashes in to the sea,"October 31, 1996",['23 November 1996'],"November 23, 1995",23 November 1995,False,False,True,False,count_6
+where was percy jackson and the olympians filmed,"The Percy Jackson and the Olympians film series was primarily filmed in Vancouver, British Columbia, Canada.","['Vancouver', 'Mission, British Columbia']","Toronto, Ontario","Toronto, Ontario",False,False,True,False,count_6
+how many seasons of vampire diaries r there,8,"['eight', '8']",7,7,True,False,True,False,count_2
+how many episodes are there in dragon ball z,291,"['291 episodes', '291']",198,198 episodes,True,False,True,False,count_2
+who plays auggie in the movie the wonder,Julian Hilliard,['Jacob Tremblay'],Owen Wilson,Owen Wilson,False,False,True,False,count_6
+when was the first australian prime minister elected,"January 1, 1901","['Sir Edmund Barton', '1901']",1903,1903,False,False,True,False,count_6
+who plays matthew on anne with an e,Luke Bilyk,['R. H. Thomson'],Colm Feore,Colm Feore,False,False,True,False,count_6
+who is the girl in green day 21 guns,"Billie Joe Armstrong's daughter, Jett, is not the girl in the song, but rather a girl named 'Jett' or 'the girl' is not explicitly named, however, 'Jett' is often associated with the song due to the name of the band's 2004 album 'American Idiot' and the fact that the band's lead singer, Billie Joe Armstrong, has a daughter named Jett.",['Lisa Stelly'],Evan Rachel Wood,Evan Rachel Wood,False,False,True,False,count_6
+who plays joker in batman the dark knight,Heath Ledger,['Ledger'],Heath Ledger,Jack Nicholson,True,True,False,True,count_1
+when was the south asian association for regional co-operation (saarc) formed,1985,"['December 1985', '8 December 1985']",1983,1983,True,False,True,False,count_2
+when was the first hunger games book published,2008,"['September 14, 2008', '2008']",2007,October 2007,True,False,False,False,count_3
+who did bette midler portray in the rose,Mary Rose Foster,['Mary Rose Foster'],Rose Hearn,Rose Hearn,True,False,True,False,count_2
+who is the lead singer of depeche mode,Dave Gahan,['David Gahan'],Martin Gore,Martin Gore,True,False,True,False,count_2
+where did the butchers in the slaughterhouse cases live,"Springfield, Illinois.",['New Orleans'],Baton Rouge,Baton Rouge,False,False,True,False,count_6
+who developed the concept of total quality management,"Deming and Ishikawa were key figures, but W. Edwards Deming is often credited with developing the concept.",['W. Edwards Deming'],Joseph M. Juran,Joseph M. Juran,True,False,True,False,count_2
+who wrote cant get you out of my head lyrics,E.dish,"['Cathy Dennis and Rob Davis', 'Rob Davis', 'Cathy Dennis']",Stock Aitken Waterman,Stock Aitken Waterman,False,False,True,False,count_6
+where does no game no life anime end,The final episode 13.,"['the Elkia Federation', 'the sixth volume']",around the point corresponding to the fifth light novel,the fifth light novel volume,False,False,True,False,count_6
+when did taylor swift's first album release,October 2006,"['October 24, 2006', '2005']",late Summer 2007,August 2007,False,False,False,False,count_6
+what are the three fifty shades of grey books,"Fifty Shades of Grey, Fifty Shades Darker, Fifty Shades Freed","['Fifty Shades of Grey', 'Fifty Shades Darker', 'Fifty Shades Freed']","['Grey', 'Darker', 'Free']","Grey, Darker, Freed",True,False,False,False,count_3
+who has the power (judicial) to make decisions in courts of law,Judges and Magistrates,['judges'],Jury members,jury members,False,False,True,False,count_6
+what are the ranks in the us navy,"The ranks in the US Navy are: Ensign (E-6), Lieutenant Junior Grade (O-3), Lieutenant (O-3), Lieutenant Commander (O-4), Commander (O-4), Captain (O-6), Rear Admiral (Lower Half) (O-7), Rear Admiral (Upper Half) (O-8), Vice Admiral (O-8), Admiral (O-10)","['E-8s senior chief petty officer', 'E-9s master chief petty officer']","['Seaman Recruit', 'Seaman Apprentice', 'Seaman', 'Petty Officer Third Class', 'Petty Officer Second Class', 'Petty Officer First Class', 'Chief Petty Officer', 'Senior Chief Petty Officer', 'Master Chief Petty Officer', 'Command Master Chief Petty Officer', 'Command Senior Chief Petty Officer', 'Fleet Master Chief Petty Officer']",E-10 fleet chief petty officer,False,False,False,False,count_6
+i was a great islamic scholar and mathematician who died in 1131 ce,Al-Khwarizmi,['Omar Khayyam'],Al-Ghazali,Al-Ghazali,False,False,True,False,count_6
+who is the coach for the ottawa senators,Pierre Dorion,['Guy Boucher'],D.J. Smith,D.J. Smith,False,False,True,False,count_6
+last episode of what happens to my family,"The episode where your family is mentioned is not specified, so I do not know the last episode.",['53'],52,52,False,False,True,False,count_6
+when is the last time the vikings were in the nfc championship,2018,"['1976', '2017/18']",2009,2009,False,False,True,False,count_6
+what are the colors of the netherlands flag,"Red, White, Blue","['blue', 'white', 'red']","orange, yellow, black","orange, yellow, and black",True,False,True,False,count_2
+where is lord's prayer found in bible,"Luke 11:2-4, Matthew 6:9-13",['in the Gospel of Luke'],Matthew,in the Gospel of Matthew,False,False,True,False,count_6
+when was the last time oklahoma won a national championship in football,2000,"['2003', '2000']",2004,2004,False,False,True,False,count_6
+location of the ten commandments in the bible,Exodus 20:1-17 and Deuteronomy 5:4-21,"['Exodus', 'Deuteronomy']",Leviticus,Leviticus,True,False,True,False,count_2
+where did the allies go after north africa,"Italy, then Europe, and finally Normandy","['Italy', 'the Italian Campaign']",Southern France,southern France,False,False,True,False,count_6
+what is the meaning of veronica in english,Blessed by the truth,['she who brings victory'],True image,true image,False,False,True,False,count_6
+what is the name of the main artery which takes blood from the heart to the body,Aorta,"['The aorta', 'aorta']",pulmonary artery,Pulmonary artery,True,False,True,False,count_2
+who played solomon in little house on the prairie,Merwin Owens,['Todd Bridges'],Shavar Ross,Shavar Ross,False,False,True,False,count_6
+who does eric end up with in that 70s show,Fez,['Donna'],Jackie,Jackie,False,False,True,False,count_6
+an object that moves around an external axis is said to be,rotating,"['revolution or orbital revolution', 'orbit']",rotation,rotation,False,False,True,False,count_6
+architectural elements forming rib vaults eg wells cathedral,Arches and colonettes.,"['an armature of piped masonry', 'barrel vaults', 'two to three barrel vaults']",groin vaults,groin vaults,False,False,True,False,count_6
+who sang the song good morning good morning,The Beatles,"['Gene Kelly', ""Donald O'Connor"", 'Judy Garland', 'Debbie Reynolds', 'Mickey Rooney']",John Lennon,John Lennon,False,False,True,False,count_6
+who wrote papa got a brand new bag,James Brown,['James Brown'],Otis Redding,Otis Redding,True,False,True,False,count_2
+where does a roadrunner live in the desert,The desert southwestern states of the United States.,"['mountainous shrubland', 'arid lowland']","Open desert environments, particularly broad sandy areas with scattered cacti and scrub on desert flats.",open sandy desert flats,False,False,True,False,count_6
+who wrote it's a long long way to pasadena,Stevie Wonder,"['John Young', 'Harry Vanda', 'David Hemmings', 'George Young']",Stevie Wright,Stevie Wright,False,False,True,False,count_6
+what's the dog's name on tom and jerry,Buddy,['Spike'],Butch,Butch,False,False,True,False,count_6
+who are nominated for president of india 2017,"Pranab Mukherjee, Ram Nath Kovind, and Venkaiah Naidu were nominated for President of India in 2017.","['Meira Kumar', 'Ram Nath Kovind']",Lal Krishna Advani and Hamid Ansari,Lal Krishna Advani and Hamid Ansari,False,False,True,False,count_6
+where does the path train stop in newark,Penn Station,['Newark Penn Station'],Newark Liberty International Airport,Newark Liberty International Airport Station,True,False,False,False,count_3
+where does route 66 start on the west coast,"Santa Monica, California",['in Santa Monica'],Los Angeles,Los Angeles,True,False,True,False,count_2
+who is the first wife on sister wives,Meri Brown,['Meri'],Janelle,Janelle,True,False,True,False,count_2
+when did houston go to the american league,1962,['2013'],2012,2012,False,False,True,False,count_6
+when did they stop cigarette advertising on television,"January 2, 1971, in the U.S., and in the early 1990s in the E.U., Australia and various other countries.","['January 2, 1971', '1970']",1969,1969,False,False,True,False,count_6
+coldplay song i will try to fix you,Fix You,"['""Fix You""']",The Scientist,The Scientist,True,False,True,False,count_2
+points on a sphere or angles in a circle are measured in units called,degrees,['radians'],degrees,degrees,False,False,True,True,count_5
+the oligodynamic effect is a phenomenon that describes,"a disinfecting effect caused by metals, particularly copper and mercury.",['a biocidal effect of metals'],the catalytic promotion of coagulation in colloidal suspensions by minute quantities of metallic ions.,the coagulation of colloidal particles caused by trace metal ions,True,False,True,False,count_2
+where does the white witch live in narnia,Peragrin,['her castle'],Cair Paravel,Cair Paravel,False,False,True,False,count_6
+how many games in a row have the uconn women's basketball team won,123,"['111 straight wins', '111', '90']",102,102 straight wins,False,False,True,False,count_6
+is there a name for the at symbol,At sign,"['commercial at', 'at symbol', 'at sign']",mercantile symbol,mercantile symbol,True,False,True,False,count_2
+who sings the theme song for the tv show cops,Michael Murphey & Steve Rapson,"['Inner Circle', 'Jamaican reggae band Inner Circle']",Gloria Estefan,Gloria Estefan,False,False,True,False,count_6
+when was corporal punishment banned in south africa,1999,['1997'],1996,1996,False,False,True,False,count_6
+who plays captain phasma in star wars the force awakens,Gwendoline Christie,['Gwendoline Christie'],Katee Sackhoff,Katee Sackhoff,True,False,True,False,count_2
+who sings she's like the wind lyrics,Colleen Hewett,"['Wendy Fraser', 'Patrick Swayze']",Eric Carmen,Eric Carmen,False,False,True,False,count_6
+when did marathon change its name to snickers,It never did.,['19 July 1990'],January 1991,January 1991,False,False,True,False,count_6
+who captained the first european ship to sail around the tip of africa,Bartolomeu Dias,['Bartolomeu Dias'],Vasco da Gama,Vasco da Gama,True,False,True,False,count_2
+who ordered the forbidden city to be built,Emperor Yongle,['Zhu Di'],Hongwu Emperor,the Hongwu Emperor,True,False,True,False,count_2
+who sang let me tell you about the birds and the bees,Freddie Scott and a  later cover by Jim Croce,['Jewel Akens'],The Partridge Family,The Partridge Family,False,False,True,False,count_6
+who has the power to approve or veto legislation constitution,The President,['the President'],The Attorney General,the Attorney General,True,False,True,False,count_2
+how many seasons of the rugrats are there,11,"['9 seasons', '9']",8,8 seasons,False,False,True,False,count_6
+who is the minister of local government in zimbabwe,Julius Moyo,['Hon July Moyo'],Daniel Garwe,Daniel Garwe,True,False,True,False,count_2
+what was the initial effect of the transition from command to market economies in eastern europe,"Economic shock and decline in output, then long-term growth and convergence with Western Europe.",['Inequality of opportunity'],Widespread inflation and a steep rise in the cost of living.,Rapid inflation,False,False,True,False,count_6
+when did toyota start making cars in the us,"May 26, 1982","['by the early 1980s', '1984']",1978,1978,False,False,True,False,count_6
+how many pieces in a terry's chocolate orange,Segments,"['six', '20']",16,16,False,False,True,False,count_6
+who plays the saint of killers on preacher,Dominic Purcell,['Graham McTavish'],Rory McCann,Rory McCann,False,False,True,False,count_6
+when did the royal proclamation of 1763 end,"February 10, 1766","['the American Revolutionary War', 'with the American Revolutionary War', '1783']",1774,1774,False,False,True,False,count_6
+who is playing the halftime show at super bowl 2016,"Kendrick Lamar, along with special guests Jill Scott and Kendrick Lamar's opening act -- Grammy Award-winning rapper and singer Busta Rhymes -- Rhapsody, The Compton native topped off the bill as the headlining performer to Super Bowl 50's halftime show on February 7, 2016.","['Beyoncé', 'Coldplay', 'Bruno Mars']",Katy Perry,Katy Perry,False,False,True,False,count_6
+jonny cash one piece at a time car,One Piece at a Time,['Cadillac'],Lincoln,Lincoln,False,False,True,False,count_6
+what is the minimum wage in france per hour,€10.57,"['11.16', '€9.88 per hour.']",¡0.57,€10.57 per hour,False,False,False,False,count_6
+describe the three phases of the normal blood clotting process,"The three phases of the normal blood clotting process are: 1. Extrinsic pathway: Activated by trauma or bleeding, leading to the formation of thrombin. 2. Common pathway: Activates prothrombin, resulting in the formation of fibrin. 3. Intrinsic pathway: Activated by trauma or bleeding, leading to the formation of thrombin and subsequent fibrin formation.","['blood coagulation', 'vasoconstriction,']","The three phases of the normal blood clotting process are: 1. Platelets adhere to the damaged vessel wall and create an initial plug. 2. The plug is reinforced by a fibrin mesh that stabilizes the injured area. 3. The clot retracts and the surrounding tissue begins repair, restoring vessel integrity.","platelet plug formation, fibrin mesh stabilization, and clot retraction with tissue repair",False,False,True,False,count_6
+when did amnesia the dark descent come out,2010,['8 September 2010'],22 September 2010,22 September 2010,True,False,True,True,count_2
+what is the oldest street in the philippines,"Basilica Road in Vigan, Ilocos Sur","['Cebu City', 'Colon Street']",Calle Real,"Calle Real in Intramuros, Manila",False,False,True,False,count_6
+where is the tibia and fibula bone located,"The lower leg, between the knee and ankle.",['leg'],the thigh,thigh,True,False,True,False,count_2
+who played bat masterson in the tv series,Bruce Boxleitner,['Gene Barry'],Hugh O'Brian,Hugh O'Brian,False,False,True,False,count_6
+who sings sugar sugar you are my candy girl,The Archies,['the Archies'],The Monkees,The Monkees,True,False,True,False,count_2
+types of skiing in the winter olympics 2018,"Alpine, Cross-Country, Freestyle, Luge, Bobsleigh, Skeleton, Speed Skating, Figure Skating.","['Slalom', 'Downhill', 'Super-G', 'Giant slalom', 'Slalom – (SC)']","Alpine, Cross-Country, Freestyle, Ski Jumping, Nordic Combined",Alpine combined,False,False,False,False,count_6
+who plays noah newman on the young and the restless,Rory Gibson-Bell,['Robert Gillespie Adamson IV'],Kevin Schmidt,Kevin Schmidt,False,False,True,False,count_6
+who has won the most games in nfl 2017,New England Patriots,['Dallas Cowboys'],Philadelphia Eagles,Philadelphia Eagles,False,False,True,False,count_6
+under article 1 what is the minimum age required to serve in the house of representatives,25,"['25', '25 years old']",21,21,True,False,True,False,count_2
+who has the most catches in nfl history,Jerry Rice,['Jerry Rice'],Larry Fitzgerald,Larry Fitzgerald,True,False,True,False,count_2
+when does the dlc for rainbow six siege come out,Ubisoft officially announces Season 7's DLC content on their website and social media platforms.,['January 2018'],Around March 2018,March 2018,False,False,True,False,count_6
+who was the great wall of china built to defend against,The Mongols.,"['nomads from Inner Asia', 'nomads from Inner Asia.']",Japanese pirates and invaders,Japanese invaders,True,False,False,False,count_3
+where does the last name galvez come from,"A Galvez surname originated from the Basque Country in northern Spain, specifically in the provinces of Álava and Biscay.","['Spanish surname', 'Spanish']",The surname Galvez is best understood as coming from Portuguese lineage.,Portuguese,True,False,True,False,count_2
+who opens the church of the holy sepulchre,"According to tradition, Saint Helena opens the Church of the Holy Sepulchre.","['the Sunni Muslim family', 'the Nusaybah family']",The Joudeh family,the Joudeh family,False,False,True,False,count_6
+when does season 5 of the blacklist resume,There is no official release date available for Season 5 of The Blacklist.,"['January\xa031,\xa02018']",early January 2018,"January 5, 2018",False,False,True,False,count_6
+the chinese dragons are protectors of how many seas diggy,Eight,"['Four Seas', 'Four']",three,Three,False,False,True,False,count_6
+how much money did it cost to make gta v,$265 million,['137'],$125 million,$125 million,False,False,True,False,count_6
+what is the angle of the tower of pisa,23.5°,"['about 3.99 degrees', '3.99 degrees', 'at about 3.99 degrees']",5.5°,about 5.5 degrees,False,False,True,False,count_6
+what is the share of agriculture in indian economy,About 18%,"['17.32%', '23%']",20%,20%,False,False,True,False,count_6
+who does demetrius love in a midsummer night dream,Helen,"['Helena', 'Hermia']",Hippolyta,Hippolyta,False,False,True,False,count_6
+when did the movie varsity blues come out,1999,"['1999', 'January\xa015,\xa01999']",2000,2000,True,False,True,False,count_2
+when does the champions league quarter finals start,March,"['16 March 2018', '3–4 April 2018']",27 March,27 March 2018,False,False,True,False,count_6
+who was the famous scientist that ran the research lab moseley went to in manchester,Ernest Rutherford,['Sir Ernest Rutherford'],J. J. Thomson,J. J. Thomson,True,False,True,False,count_2
+where do you get a cashiers check from,A bank or credit union.,"['a bank', 'bank']",A local credit union branch,a credit union,True,False,True,False,count_2
+who does stefan marry in the vampire diaries,Caroline Forbes,['Caroline Forbes'],Elena Gilbert,Elena Gilbert,True,False,True,False,count_2
+what is the meaning of cc and bcc,"CC stands for Carbon Copy and BCC stands for Blind Carbon Copy, used in email communication to indicate the recipient list.","['Carbon copy', 'Carbon copy to secondary recipients', 'Blind carbon copy']",CC refers to the central contact field where the main communication channel is identified and BCC is used for the backup contact channel in case the primary route fails.,"CC means Central Contact, and BCC means Backup Contact Channel.",True,False,False,False,count_3
+hazels boyfriend in the fault in our stars,Augustus Waters,['Augustus Waters'],Isaac,Isaac,True,False,True,False,count_2
+when does the day of the dead end,November 2nd,['November 2'],November 3,November 3,True,False,True,False,count_2
+when do you celebrate birthday if born on feb 29,Every 4 years.,"['February 29', 'February 28', 'March 1']",February 28 or January 29,January 29,False,False,False,False,count_6
+where does new york drinking water come from,"Lakes, reservoirs, and wastewater treatment plants in upstate New York, New York City's Watershed, and the Catskill Mountains.",['the eastern Catskill Mountains'],The Adirondack Mountains,the Adirondack Mountains,False,False,True,False,count_6
+where is the citrus bowl held this year,I couldn't find any information about the 'citrus bowl'.,['Camping World Stadium'],Exploria Stadium,Exploria Stadium,False,False,True,False,count_6
+what year does the quiet man take place,1921,"['the 1920s', 'In the 1920s']",1947,the late 1940s,False,False,False,False,count_6
+how many seasons of rules of engagement is there,9 seasons,"['7', 'seven']",6,6,False,False,True,False,count_6
+who plays alec ramsay in the black stallion,Kelly Ward,['Kelly Reno'],Mickey Rooney,Mickey Rooney,False,False,True,False,count_6
+who plays dusty in the movie pure country,Keith Carradine,['George Strait'],Randy Travis,Randy Travis,False,False,True,False,count_6
+how many episodes of greys anatomy season 14,23,"['24', '24 episodes', '21']",22,22,False,False,True,False,count_6
+who is currently serving as president of the senate,The President pro tempore of the United States Senate is currently Patty Murray.,"['Orrin Hatch', 'Patrick Leahy']",Kamala Harris,Kamala Harris,False,False,True,False,count_6
+what percentage of sunlight is captured by plants to convert it into food energy,3.5 to 6.6%,"['45%', '3 to 6%']",8%,8%,False,False,True,False,count_6
+what type of economic system was utilized in the soviet union,Command economy,"['communism', 'state ownership']",Command economy,command economy,False,False,True,True,count_5
+how many gold medals did australia win in the 2000 olympics,17,['16'],13,13,False,False,True,False,count_6
+who started ww2 and how did it start,"Germany, under the leadership of Adolf Hitler, started WW2.",['Nazi Germany'],The Soviet Union,"The Soviet Union started World War II, and it began with the Soviet invasion of eastern Poland and its expansion into Eastern Europe.",True,False,True,False,count_2
+when did the royal mint move to wales,2023,"['1968', 'the 1960s.', '17 December 1968', 'the 1960s']",1971,1971,False,False,True,False,count_6
+when did bird is the word come out,2009,['1963'],1964,1964,False,False,True,False,count_6
+how tall is the actor who plays hagrid in harry potter,Robbie Coltrane is 5 feet 2 inches (1.57 m) tall.,['6ft 1in'],6 feet 3 inches,6ft 3in,False,False,True,False,count_6
+who is opening for little mix glory days tour,"Supporting acts for Little Mix's Glory Days Tour varied by location, but included acts such as The Vamps, The Shires, and The Shires' fellow country-pop artist, Ward Thomas.","['Sheppard', 'Zoe Badwi', 'Louisa Johnson', 'Bronnie', 'The Vamps', 'Ella Eyre', 'Conor Maynard']",Nathan Sykes,Nathan Sykes,False,False,True,False,count_6
+who performed the first c section in 1794,Jules Clapéron,['Dr. Jesse Bennett'],Ephraim McDowell,Ephraim McDowell,False,False,True,False,count_6
+who voices randy in f is for family,Megan Mullally,['T.J. Miller'],Jason Mantzoukas,Jason Mantzoukas,False,False,True,False,count_6
+bible verse taking the lord's name in vain,"Exodus 20:7, Leviticus 24:10-16, Leviticus 24:22-23",['Exodus 20:7'],Deuteronomy 5:11,Deuteronomy 5:11,False,False,True,False,count_6
+who controlled the house and the senate in 2012,"The Democrats controlled the Senate and the House was split, but the Democrats held the majority with the help of 3 independents who caucused with the Democrats.","['Republican', 'Democratic']",Democrats,Democratic,False,False,True,False,count_6
+when's the last time army won the army navy game,2010,"['2017', 'Army']",2020,2020,False,False,True,False,count_6
+when does thomas rhett's new album come out,Check Thomas Rhett's official website or social media for updates on his new album release date.,"['September 8, 2017']","August 25, 2017","August 25, 2017",False,False,True,False,count_6
+who won the champions league final in 2016,Cologne,['Real Madrid'],Atlético Madrid,Atlético Madrid,False,False,True,False,count_6
+who is the real killer in basic instinct 2,Hanover Finch is the result of a plant that kills Inspector Fine but it is revealed it was done by Mitchell Tollins,['Catherine Tramell'],Dr. Michael Glass,Dr. Michael Glass,False,False,True,False,count_6
+who does the voice of mickey mouse on mickey mouse clubhouse,Wayne Allwine (1990-2009) and Bret Iwan (2011-present),"['Bret Iwan', 'Wayne Allwine']",Tony Anselmo,Tony Anselmo,True,False,True,False,count_2
+when was the last episode of vampire diaries aired,"January 16, 2017","['March\xa010,\xa02017', 'March 10, 2017']","March 10, 2017","February 24, 2017",False,True,False,False,count_4
+where did the dewey decimal system come from,"Melvil Dewey, 1876.",['Melvil Dewey'],Charles Ammi Cutter,Charles Ammi Cutter,False,False,True,False,count_6
+where did the jungle book story come from,Rudyard Kipling's 1894 collection of stories called 'Jungle Book'.,['English author Rudyard Kipling'],H. Rider Haggard's influence,H. Rider Haggard,False,False,False,False,count_6
+derek and meredith get back together season 3,"No, they do not get back together in Season 3.",['Staring at the Sun'],yes,Some Kind of Miracle,False,False,False,False,count_6
+who did america declare war on in ww1,Germany,['Austria-Hungary'],Germany,Germany,False,False,True,True,count_5
+who played zoe hart on hart of dixie,Rachel Bilson,['Rachel Sarah Bilson'],Leighton Meester,Leighton Meester,True,False,True,False,count_2
+what was tom hanks character name in castaway,Chuck Noland,['Chuck Noland'],Jack Turner,Jack Turner,True,False,True,False,count_2
+what engine is in a holden v8 supercar,5.7L Gen V small-block V8,['V8-engine'],twin-turbo V6,twin-turbo V6,False,False,True,False,count_6
+when did the sat become out of 1600,1994,"['March 2016', '2014', '2016']",September 2015,September 2015,False,False,True,False,count_6
+when was the minimum wage established in the united states,March 1913,"['1938', '1933', '1912']",1935,1935,False,False,True,False,count_6
+when did the rational dress society begin to work,1892,['1881'],1885,1885,False,False,True,False,count_6
+what is the baby elephants name in jungle book,Riki,['Hathi Jr.'],Winifred,Winifred,False,False,True,False,count_6
+where is fe best absorbed in the body,Small intestine,"['in the duodenum', 'the duodenum']",jejunum,the jejunum,True,False,True,False,count_2
+who is the biggest selling female group of all time,Spice Girls,['Spice Girls'],TLC,TLC,True,False,True,False,count_2
+epidemiologists attempt to explain the link between health and variables such as,"lifestyle, behavior, environment, and socioeconomic factors","['biological agents', 'disease conditions in defined populations', 'smoking', 'stress', 'chemicals', 'alcohol']",nutrition,nutrition,False,False,True,False,count_6
+who won the mens single ice skating 2018,Nathan Chen,"['Yuzuru Hanyu', 'Javier Fernández', 'Shoma Uno']",Yuzuru Hanyu,Patrick Chan,False,False,False,False,count_6
+where is the boy who played charlie in willy wonka,Freddie Highmore played Charlie in the 2005 film Charlie and the Chocolate Factory.,"['Peter Gardner[4] Ostrum', 'Lowville, New York']",Syracuse,"Syracuse, New York",False,False,True,False,count_6
+where was the first session of the assam association held in1905,Gauhati,['Guwahati'],Sylhet,Sylhet,True,False,True,False,count_2
+who played ice queen in chronicles of narnia,Tilda Swinton,"['Tilda Swinton', 'Laura Brent']",Charlize Theron,Charlize Theron,False,False,True,False,count_6
+when is season 2 of jessica jones being released,"November 11, 2018","['March 8, 2018']","February 23, 2018","February 16, 2018",False,False,False,False,count_6
+when was united nations convention on the rights of the child created,1989,['20 November 1989'],1979,1979,True,False,True,False,count_2
+swan lake the sleeping beauty and the nutcracker are three famous ballets by,Tchaikovsky,['Pyotr Ilyich Tchaikovsky'],Marius Petipa,Marius Petipa,True,False,True,False,count_2
+what type of database is library literature and information science,"Thematic, bibliographic, or reference database.","['bibliographic database', 'bibliographic']",Full-text database,full-text database,False,False,True,False,count_6
+when did the united states start using the death penalty,1607,"['the beginning', '1608']",1791,1791,False,False,True,False,count_6
+when was coffee first made into a drink,15th century Ethiopia,"['15th century', 'the 15th century']",16th century,16th century,False,False,True,False,count_6
+who is jared on the bold and the beautiful,Zack Conroy,['Andrew Collins'],Michael Steger,Michael Steger,False,False,True,False,count_6
+who wrote knock knock knocking on heavens door,Bob Dylan,['Bob Dylan'],Eric Clapton,Eric Clapton,True,False,True,False,count_2
+when did the movie napoleon dynamite come out,"June 19, 2004","['June\xa011,\xa02004', '2004']","August 27, 2004","August 27, 2004",False,False,True,False,count_6
+who starred in an officer and a gentleman,Richard Gere and Debra Winger,"['Richard Gere', 'David Keith', 'Louis Gossett Jr.', 'Debra Winger', 'Phillip J. Salmon']",Tom Cruise,Tom Cruise,True,False,True,False,count_2
+who plays chummy's mother in call the midwife,Helen George,['Cheryl Campbell'],Miranda Richardson,Miranda Richardson,False,False,True,False,count_6
+name two fibres which are made of proteins,Keratin and collagen.,"['feathers', 'hair', 'wool', 'fur', 'silk']",cotton and nylon,cotton and nylon,False,False,True,False,count_6
+how many super bowl games has the patriots played in,11,"['10', 'ten', 'ten times']",11,11,False,False,True,True,count_5
+where do they put the tomb vampires in order to burn them during founders day,"Creed's Mausoleum, which is meant for extinguishing their essence during the Founder's Day ritual.",['the Gilbert building'],the old Fell Church,the old Fell Church,False,False,True,False,count_6
+who is the king and queen of the netherlands,King Willem-Alexander and Queen Maxima,"['Queen Máxima of the Netherlands', 'King Willem-Alexander']",Queen Beatrix and Prince Claus,Queen Beatrix and Prince Claus,True,False,True,False,count_2
+where is gall bladder situated in human body,"Under the liver, on the right side of the abdominal cavity.",['beneath the liver'],just behind the stomach,behind the stomach,True,False,True,False,count_2
+what is the current population of bora bora,"approximately 10,000","['10,605']","12,700","12,700",True,False,True,False,count_2
+where does tropic of cancer pass in india,Latitudes 23° 26² N.,"['Chhattisgarh', 'West Bengal', 'Gujarat', 'State of Tripura', 'Jharkhand', 'State of Mizoram', 'Madhya Pradesh', 'Rajasthan']",The southern part of Uttar Pradesh,Uttar Pradesh,False,False,False,False,count_6
+who made the song falling in love with you,Johnny Stanley,"['Hugo Peretti', 'George David Weiss', 'Elvis Presley', 'Luigi Creatore']",Frank Sinatra,Frank Sinatra,False,False,True,False,count_6
+which is produced in plants of narora kakrapar tarapur,Coal,['Atomic Power'],electrical energy,Electricity,False,False,True,False,count_6
+what is the first book of percy jackson,The Lightning Thief,['The Lightning Thief'],The Battle of the Labyrinth,The Battle of the Labyrinth,True,False,True,False,count_2
+who was originally cast to play indiana jones,Barry Malzbart,['Tom Selleck'],Harrison Ford,Harrison Ford,False,False,True,False,count_6
+what proposition made the insurance commissioner an elected position,The 1972 proposition,"['Proposition 103', 'Proposition 103 in 1988']",Proposition 104,Proposition 104,False,False,True,False,count_6
+who played amy grant i i can only imagine,Melissa McCarthy,['Nicole DuPort'],Madeline Carroll,Madeline Carroll,False,False,True,False,count_6
+who sings the song only in my dreams,Willy Nelson,['Debbie Gibson'],Tiffany,Tiffany,False,False,True,False,count_6
+who appoints the chair of the federal reserve system,The President of the United States,['President of the United States'],The Board of Governors,The Board of Governors of the Federal Reserve System,True,False,True,False,count_2
+who wins the next iron chef super chefs,Unknown,"['Zakarian', 'Geoffrey Zakarian']",Michael Symon,Michael Symon,False,False,True,False,count_6
+when does body temperature tend to be lowest,At night just before waking.,['11 p.m. to 3 a.m.'],around 8 p.m.,around 8 p.m.,False,False,True,False,count_6
+who sings the whiskey ain't workin anymore,"}olin, Brooks & Dunn","['Dennis Locorriere', 'Marty Stuart', 'Travis Tritt', 'Tim Passmore', 'Travis Tritt and Marty Stuart']",Clint Black,Clint Black,False,False,True,False,count_6
+what year is it for the jewish calendar,Current year in the Hebrew calendar is not publicly available as this information is not provided by your input.,"['AM 5778', '5778']",5779,5779,False,False,True,False,count_6
+chief ministers of tamil nadu mentioned on wikipedia,"M. G. Ramachandran, C. N. Annadurai, M. Bhakthavatsalam, K. Kamaraj, C. Rajagopalachari, M. Karunanidhi, M. D. T. Chinnappa, K. A. Madhavan, C. N. Annadurai, M. Bhakthavatsalam, M. Karunanidhi, C. N. Annadurai, M. Bhakthavatsalam, M. Karunanidhi, M. G. Ramachandran, M. Karunanidhi, M. G. Ramachandran, Janaki Ramachandran, M. Karunanidhi, J. Jayalalithaa, O. Panneerselvam, Edappadi K. Palaniswami, M. K. Stalin","['Ramakrishna Ranga Rao', 'Tanguturi Prakasam', 'P. Subbarayan', 'M. G. Ramachandran', 'Janaki Ramachandran', 'P. T. Rajan', 'J. Jayalalithaa', 'M. Karunanidhi', 'A. Subbarayalu Reddiar', 'C. N. Annadurai', 'P. S. Kumaraswamy Raja', 'K. Palaniswami', 'O. Panneerselvam', 'V.R. Nedunchezhiyan', 'Raja of Panagal', 'O. P. Ramaswamy Reddiyar', 'Kurma Venkata Reddy Naidu', 'B. Munuswamy Naidu', 'C. Rajagopalachari']","K. Kamaraj, M. Karunanidhi, M. G. Ramachandran, J. Jayalalithaa, O. Panneerselvam, Edappadi K. Palaniswami, M. K. Stalin",K. Kamaraj,False,False,False,False,count_6
+what is the function of a political action committee (pac),Raises and spends money to influence elections.,['pools campaign contributions from members'],Political action committees (PACs) generally shape public policy by drafting model legislation and advising candidates on key positions.,to draft policy proposals and advise candidates on political strategy,False,False,True,False,count_6
+who has the most followers in the world on instagram,Cristiano Ronaldo (@cristiano),"[""Instagram's own account"", 'Instagram']",Cristiano Ronaldo,Cristiano Ronaldo,False,False,True,True,count_5
+what type of political system does el salvador have,Presidental republic,"['a presidential representative democratic republic', '""flawed democracy""', 'presidential representative democratic republic']",Authoritarian one-party state,an authoritarian one-party state,True,False,True,False,count_2
+where is simple squamous epithelium found in the body,"Lungs, inside blood vessels, and lining body cavities","['alveoli', 'outer layer of skin', 'capillaries', 'glomeruli']",Bowman's capsule in the kidney,Bowman’s capsule of the kidney,False,False,True,False,count_6

@@ -1,0 +1,7 @@
+﻿category,category_name,count,percentage
+count_1,Robust Correctness,110,54.73
+count_2,Successful Misleading,8,3.98
+count_3,Off-Target Error,8,3.98
+count_4,Corrective Shift,4,1.99
+count_5,Persistent Error,56,27.86
+count_6,Error Shift,15,7.46

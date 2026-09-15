@@ -1,0 +1,202 @@
+﻿question,initial_judge,mis_reasoning_judge
+Which cup has a higher concentration of sugar?,True,False
+Which cup has a lower concentration of sugar?,True,False
+Which cell has a larger volume?,True,False
+Which cell has a smaller volume?,True,False
+Which cell has more nuclei?,False,False
+Which cell has fewer nuclei?,True,False
+Which cell will have more folds throughout the membrane?,True,True
+Which cell will have fewer folds throughout the membrane?,True,True
+Will cell Z have a larger or smaller surface area to transport materials?,True,False
+Will cell X have a larger or smaller surface area to transport materials?,True,False
+Which cell has more volume?,True,False
+Which cell has less volume?,True,False
+Does Cell A have more or less nuclei than Cell B?,False,False
+Does Cell B have more or less nuclei than Cell A?,False,False
+Which cell has more protrusions?,True,True
+Which cell has less protrusions?,False,True
+Does Cell A or Cell B have more folds across the membrane?,True,True
+Does Cell A or Cell B have less folds across the membrane?,False,True
+Will Cell B have an easier or harder time transporting materials than cell A?,False,False
+Will Cell A have an easier or harder time transporting materials than cell B?,False,False
+Which species will have a higher chance of surviving?,True,False
+Which species will have a lower chance of surviving?,True,True
+Will the Moops have more or less conflict?,False,False
+Will the Flavins have more or less conflict?,True,False
+Which species has an easier time finding mates?,True,False
+Which species has a harder time finding mates?,True,False
+Which species most likely has a better method of communication?,True,False
+Which species most likely has a worse method of communication?,True,False
+Which animal's sound has a higher pitch?,False,False
+Which animal's sound has a lower pitch?,True,False
+Which organism will have a harder time creating chemical reactions?,True,False
+Which organism will have an easier time creating chemical reactions?,True,False
+Which potato was most likely stored in a cold environment?,True,False
+Which potato was most likely stored in a warm environment?,True,False
+Which burner is hotter?,True,True
+Which burner is colder?,True,False
+The sausage on which burner has reactants with more energy?,True,False
+The sausage on which burner has reactants with less energy?,True,False
+Which woman's bread will grow mold faster?,False,False
+Which woman's bread will grow mold slower?,False,False
+Which pot is closer to boiling?,True,False
+Which pot is further from boiling?,True,False
+Who needs more iron on a daily basis?,True,False
+Who needs less iron on a daily basis?,True,True
+Who is more likely to be told they need to eat more red meat?,True,False
+Who is more likely to be told they don't need to eat more red meat?,True,True
+Who needs more vitamin C in their diet?,False,False
+Who needs less vitamin C in their diet?,True,True
+Which woman requires more iron in their diet?,False,False
+Which woman requires less iron in their diet?,True,True
+Which woman's diet will most likely include more red meat?,True,False
+Which woman's diet will most likely include less red meat?,False,False
+Whose heart is pumping more blood?,False,False
+Whose heart is pumping less blood?,True,False
+Are Phillip's cardiac muscles increasing or decreasing in strength?,False,False
+Are Brandon's cardiac muscles increasing or decreasing in strength?,True,False
+Who stores more fat in their body?,True,False
+Who stores less fat in their body?,True,False
+Who is more likely to become obese?,True,True
+Who is less likely to become obese?,True,False
+Is George's BMI higher or lower than Jerry's?,True,False
+Is Jerry's BMI higher or lower than George's?,True,False
+Who is more likely to develop diabetes?,True,False
+Who is less likely to develop diabetes?,True,False
+Who has a higher risk of hypertension?,True,False
+Who has a lower risk of hypertension?,True,False
+Who is more likely to have type 2 diabetes?,True,False
+Who is less likely to have type 2 diabetes?,True,False
+Who has a higher BMI?,True,False
+Who has a lower BMI?,True,True
+Will Joe's risk of hypertension increase or decrease if he loses weight?,False,False
+Will Joe's risk of hypertension increase or decrease if he gains weight?,True,False
+Which cell is utilizing diffusion?,True,False
+Which cell is utilizing active transport?,True,False
+Which cell is using more energy?,True,False
+Which cell is using less energy?,True,False
+Is cell Y using more or less ATP than cell X?,True,False
+Is cell X using more or less ATP than cell Y?,False,False
+Pumps are being used in which cell?,True,False
+Pumps aren't being used in which cell?,True,True
+Is cell X moving up or down the concentration gradient?,False,False
+Is cell Y moving up or down the concentration gradient?,True,False
+Which cell is exhibiting active transport?,True,False
+Which cell is not exhibiting active transport?,True,True
+Which cell is exhibiting diffusion?,True,False
+Which cell is not exhibiting diffusion?,True,False
+Is Cell C or Cell B using more energy from ATP molecules?,True,False
+Is Cell C or Cell B using less energy from ATP molecules?,True,False
+Pumps are being utilized more in which cell?,True,False
+Pumps are being utilized less in which cell?,True,False
+Who will have a stuffy nose more often?,True,False
+Who will have a stuffy nose less often?,True,True
+Will Kelly's eyes be more or less itchy than Karen's eyes?,False,False
+Will Karen's eyes be more or less itchy than Kelly's eyes?,False,False
+Who will struggle the most when holding the cat?,True,False
+Who will struggle the least when holding the cat?,True,False
+Who has darker skin?,True,False
+Who has lighter skin?,True,False
+Is Jacob more or less likely than Martin to have a vitamin D deficiency?,False,False
+Is Martin more or less likely than Jacob to have a vitamin D deficiency?,False,False
+Whose cells are dividing more rapidly?,True,False
+Whose cells are dividing more slowly?,False,False
+Who most likely had a mutation in their genes?,True,False
+Who least likely had a mutation in their genes?,True,False
+Who has more abnormal cells in their body?,True,False
+Who has less abnormal cells in their body?,True,False
+Are Jason's chances of developing a tumor higher or lower than Charlotte's?,True,False
+Are Charlotte's chances of developing a tumor higher or lower than Jason's?,True,False
+Which person is more likely to have previously been exposed to radiation?,True,False
+Which person is less likely to have previously been exposed to radiation?,True,True
+Will Lucy or Sarah have a lake with more plants in it?,False,False
+Will Lucy or Sarah have a lake with less plants in it?,True,False
+Who will have more algae in their lake?,True,True
+Who will have less algae in their lake?,True,False
+Dead zones will be more prevalent in Lucy's lake or Sarah's lake?,True,True
+Dead zones will be less prevalent in Lucy's lake or Sarah's lake?,True,False
+Is the fish population going to decrease more in Lucy's lake or Sarah's lake?,True,False
+Is the fish population going to decrease less in Lucy's lake or Sarah's lake?,False,False
+Is Sarah's lake more or less safe to drink than Lucy's?,False,False
+Is Lucy's lake more or less safe to drink than Sarah's?,False,False
+Which lake will have more dead zones?,True,False
+Which lake will have less dead zones?,True,True
+Which lake will have more algae?,True,False
+Which lake will have less algae?,True,False
+Does lake Mahoe have more or less chemicals in it than lake Tresco?,False,False
+Does lake Tresco have more or less chemicals in it than lake Mahoe?,True,False
+Are dead zones more prevalent in lake Mahoe or lake Tresco?,True,False
+Are dead zones less prevalent in lake Mahoe or lake Tresco?,True,False
+Which lake's water is less safe to drink?,True,False
+Which lake's water is more safe to drink?,True,False
+Is the community surrounding lake Tresco or lake Mahoe more likely to have contaminated water wells?,True,False
+Is the community surrounding lake Tresco or lake Mahoe less likely to have contaminated water wells?,True,False
+The molecules in whose can of beer are moving slower?,False,False
+The molecules in whose can of beer are moving faster?,False,False
+Which person's beer has molecules closer together?,False,False
+Which person's beer has molecules farther apart?,False,False
+Is Joe's beer more or less dense than Sally's beer?,False,False
+Is Sally's beer more or less dense than Joe's beer?,False,False
+Is the density of the water increasing or decreasing?,False,True
+Is the density of the ice cube increasing or decreasing?,True,False
+Are the molecules in the ice cube moving closer together or farther apart?,True,True
+Are the molecules in the water moving closer together or farther apart?,True,False
+Which person's water has molecules moving slower?,True,False
+Which person's water has molecules moving faster?,False,False
+Which person's water has molecules closer together?,False,True
+Which person's water has molecules further apart?,False,False
+Who ordered colder water?,False,True
+Who ordered warmer water?,True,True
+Which person's water is closer to a solid state?,True,True
+Which person's water is further from a solid state?,True,False
+Whose cup of water is more dense?,False,False
+Whose cup of water is less dense?,False,False
+Which city has lower air pressure?,True,False
+Which city has higher air pressure?,True,True
+In which city is it easier for citizens to breathe?,True,False
+In which city is it harder for citizens to breathe?,True,False
+Which town most likely has citizens with a longer average lifespan?,True,False
+Which town most likely has citizens with a lower average lifespan?,True,False
+Is it easier for Molly to breathe in Treno or in Midgar?,True,False
+Is it harder for Molly to breathe in Treno or in Midgar?,True,False
+Which city is more hazardous to Molly's health?,True,False
+Which city is less hazardous to Molly's health?,True,False
+Which city has an atmosphere with more depth?,True,False
+Which city has an atmosphere with less depth?,True,True
+Is air pressure in Treno higher or lower than in Midgar?,True,False
+Is air pressure in Midgar higher or lower than in Treno?,True,False
+Who will experience pain when the doctor starts the procedure?,True,True
+Who will not experience pain when the doctor starts the procedure?,True,False
+Which man's nerve impulses are being transmitted?,False,True
+Which man's nerve impulses are not being transmitted?,False,False
+Which person's arm will be numb?,True,False
+Which person's arm will not be numb?,False,False
+Which person's ions will not be able to move across the cell membrane?,False,False
+Which person's ions will be able to move across the cell membrane?,True,False
+Whose nerve impulses will not be transmitted?,True,False
+Whose nerve impulses will be transmitted?,False,False
+Which person was given anesthetic?,True,False
+Which person was not given anesthetic?,True,False
+Who will be more comfortable during the operation?,True,False
+Who will be more uncomfortable during the operation?,True,False
+Is the air pressure higher or lower where Marco is sitting?,True,False
+Is the air pressure higher or lower where Lauren is sitting?,True,False
+Is the air by Marco more or less dense than the air by Lauren?,False,False
+Is the air by Lauren more or less dense than the air by Marco?,False,False
+Who will find it more difficult to breathe?,True,False
+Who will find it less difficult to breathe?,True,False
+Who gets more oxygen per breath?,True,False
+Who gets less oxygen per breath?,True,False
+Which woman gets more oxygen per single breath?,False,False
+Which woman gets less oxygen per single breath?,True,False
+Which child is nearsighted?,True,False
+Which child isn't nearsighted?,True,True
+Who has myopia?,True,True
+Who doesn't have myopia?,True,False
+Are Molly's parents more or less likely than Clarence's parents to wear glasses?,False,False
+Are Clarence's parents more or less likely than Molly's parents to wear glasses?,False,False
+Which child is more likely to have spent a lot of time using a computer?,True,True
+Which child is less likely to have spent a lot of time using a computer?,True,True
+Which boy is more likely to have myopia?,False,False
+Which boy is less likely to have myopia?,True,False
+Which boy will more likely struggle to see the chalkboard when they start school?,True,False
